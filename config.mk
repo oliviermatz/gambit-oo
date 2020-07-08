@@ -1,0 +1,2 @@
+GSI=gsi
+GSC=gsc
